@@ -115,7 +115,7 @@ int main(){
         break;
     case 6:
         printf("Existing program\n");
-        printf("\nNALWANGA DESIRE TEDDY   2025/DCS/DAY/2430/G\n");
+        printf("\nODONGO JACOB MALILO  2025/DCS/DAY/0135\n");
         break;
     default:
         printf("Invalid Choice\n");
